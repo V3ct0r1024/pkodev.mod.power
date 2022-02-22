@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pkodev.mod.power.client", "pkodev.mod.power.client\pkodev.mod.power.client.vcxproj", "{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pkodev.mod.power.server", "pkodev.mod.power.server\pkodev.mod.power.server.vcxproj", "{509DC876-54FF-432C-A139-339F8A8C3568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Game.exe 1.3x_0 Debug|x86 = Game.exe 1.3x_0 Debug|x86
+		Game.exe 1.3x_0 Release|x86 = Game.exe 1.3x_0 Release|x86
+		Game.exe 1.3x_1 Debug|x86 = Game.exe 1.3x_1 Debug|x86
+		Game.exe 1.3x_1 Release|x86 = Game.exe 1.3x_1 Release|x86
+		Game.exe 1.3x_2 Debug|x86 = Game.exe 1.3x_2 Debug|x86
+		Game.exe 1.3x_2 Release|x86 = Game.exe 1.3x_2 Release|x86
+		Game.exe 1.3x_3 Debug|x86 = Game.exe 1.3x_3 Debug|x86
+		Game.exe 1.3x_3 Release|x86 = Game.exe 1.3x_3 Release|x86
+		Game.exe 1.3x_4 Debug|x86 = Game.exe 1.3x_4 Debug|x86
+		Game.exe 1.3x_4 Release|x86 = Game.exe 1.3x_4 Release|x86
+		Game.exe 1.3x_5 Debug|x86 = Game.exe 1.3x_5 Debug|x86
+		Game.exe 1.3x_5 Release|x86 = Game.exe 1.3x_5 Release|x86
+		GameServer.exe 1.36 Debug|x86 = GameServer.exe 1.36 Debug|x86
+		GameServer.exe 1.36 Release|x86 = GameServer.exe 1.36 Release|x86
+		GameServer.exe 1.38 Debug|x86 = GameServer.exe 1.38 Debug|x86
+		GameServer.exe 1.38 Release|x86 = GameServer.exe 1.38 Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_0 Debug|x86.ActiveCfg = Game.exe 1.3x_0 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_0 Debug|x86.Build.0 = Game.exe 1.3x_0 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_0 Release|x86.ActiveCfg = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_0 Release|x86.Build.0 = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_1 Debug|x86.ActiveCfg = Game.exe 1.3x_1 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_1 Debug|x86.Build.0 = Game.exe 1.3x_1 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_1 Release|x86.ActiveCfg = Game.exe 1.3x_1 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_1 Release|x86.Build.0 = Game.exe 1.3x_1 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_2 Debug|x86.ActiveCfg = Game.exe 1.3x_2 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_2 Debug|x86.Build.0 = Game.exe 1.3x_2 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_2 Release|x86.ActiveCfg = Game.exe 1.3x_2 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_2 Release|x86.Build.0 = Game.exe 1.3x_2 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_3 Debug|x86.ActiveCfg = Game.exe 1.3x_3 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_3 Debug|x86.Build.0 = Game.exe 1.3x_3 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_3 Release|x86.ActiveCfg = Game.exe 1.3x_3 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_3 Release|x86.Build.0 = Game.exe 1.3x_3 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_4 Debug|x86.ActiveCfg = Game.exe 1.3x_4 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_4 Debug|x86.Build.0 = Game.exe 1.3x_4 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_4 Release|x86.ActiveCfg = Game.exe 1.3x_4 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_4 Release|x86.Build.0 = Game.exe 1.3x_4 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_5 Debug|x86.ActiveCfg = Game.exe 1.3x_5 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_5 Debug|x86.Build.0 = Game.exe 1.3x_5 Debug|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_5 Release|x86.ActiveCfg = Game.exe 1.3x_5 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.Game.exe 1.3x_5 Release|x86.Build.0 = Game.exe 1.3x_5 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.36 Debug|x86.ActiveCfg = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.36 Debug|x86.Build.0 = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.36 Release|x86.ActiveCfg = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.36 Release|x86.Build.0 = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.38 Debug|x86.ActiveCfg = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.38 Debug|x86.Build.0 = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.38 Release|x86.ActiveCfg = Game.exe 1.3x_0 Release|Win32
+		{C7B26D6E-3DC6-4077-A2CC-9C6A2FCEA8B4}.GameServer.exe 1.38 Release|x86.Build.0 = Game.exe 1.3x_0 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_0 Debug|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_0 Debug|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_0 Release|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_0 Release|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_1 Debug|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_1 Debug|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_1 Release|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_1 Release|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_2 Debug|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_2 Debug|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_2 Release|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_2 Release|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_3 Debug|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_3 Debug|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_3 Release|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_3 Release|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_4 Debug|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_4 Debug|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_4 Release|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_4 Release|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_5 Debug|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_5 Debug|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_5 Release|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.Game.exe 1.3x_5 Release|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.36 Debug|x86.ActiveCfg = GameServer.exe 1.36 Debug|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.36 Debug|x86.Build.0 = GameServer.exe 1.36 Debug|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.36 Release|x86.ActiveCfg = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.36 Release|x86.Build.0 = GameServer.exe 1.36 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.38 Debug|x86.ActiveCfg = GameServer.exe 1.38 Debug|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.38 Debug|x86.Build.0 = GameServer.exe 1.38 Debug|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.38 Release|x86.ActiveCfg = GameServer.exe 1.38 Release|Win32
+		{509DC876-54FF-432C-A139-339F8A8C3568}.GameServer.exe 1.38 Release|x86.Build.0 = GameServer.exe 1.38 Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CB96C7-10B4-4D26-9308-91C79364A8E1}
+	EndGlobalSection
+EndGlobal
